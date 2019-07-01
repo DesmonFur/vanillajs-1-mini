@@ -33,3 +33,7 @@ main {
   padding: 50px;
   transition: all 200ms;
 }
+
+mark {
+background-color: blue;
+}
